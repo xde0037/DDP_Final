@@ -18,13 +18,10 @@ knit        : slidify::knit2slides
   rendering of related information.
 - Data was sourced from GADM public data site as well as Indian government's public data site.
   ( see references on last slide )
-- Due to RStudio's issues, this presentation was not run through its presenter and so the
-  live application screens could not be captured while making this presentation. However,
-  main screen as captured with snipping tool is included later in this presentation. Also
-  the efforts to embed entire Shiny application inside RMarkdown and then running through
-  Slidify also did not work well. Application size and features used could be issue there.
-- Application is hosted at : 
-- And GitHUB repo is here  :
+
+- Application is hosted at : https://xde0037.shinyapps.io/Test02/ 
+
+- And GitHUB repo is here  : https://github.com/xde0037/DDP_Final
 
 ---
 
